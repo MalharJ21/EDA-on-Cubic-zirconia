@@ -6,16 +6,27 @@ So over here I have performed the 𝙀𝙭𝙥𝙡𝙤𝙧𝙖𝙩𝙤𝙧𝙮 �
 
 # 📚 𝐓𝐚𝐬𝐤'𝐬 𝐏𝐞𝐫𝐟𝐨𝐫𝐦𝐞𝐝:-
 ✨Data Cleaning & Pre-processing
+
 ✨Dealing with Outliers.
+
 ✨Univariate Analysis
+
 ✨Multivariate Analysis
+
 ✨Modelling
+
 ✨Prediction
+
 
 # 📚 𝐒𝐮𝐦𝐦𝐚𝐫𝐲:-
 ✨In Pre-Processing many techniques are used like outlier detection, missing value detection and also handled them.
+
 ✨Different visualizations and charts are implemented to support the findings of Exploratory Data Analysis.
+
 ✨As it was a Regression problem. We have used regression algorithm like Linear Regression and Random Forest Regressor.
+
 ✨The ensemble model have performed well compared to that of linear Regression.
+
 ✨The best performance is given by Random Forest Regressor with accuracy of 97%.
+
 
